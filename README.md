@@ -1,5 +1,5 @@
-# secure-web-applictions-in-rust
+# Secure Web Applictions In Rust
 
-Run with `cargo run` run tests with `cargo test` the only non-cargo dependency is Rust.
+Tutorial code for blog post: https://yequalscode.com/posts/secure-web-applications-in-rust
 
-For more information read: https://yequalscode.com/posts/secure-web-applications-in-rust
+Run with `cargo run` and run the tests with `cargo test`. The only non-cargo dependency is Rust.
